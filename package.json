@@ -4,6 +4,13 @@
   "publisher": "TylerLeonhardt",
   "description": "Provides a VS Code Authentication Provider for Spotify",
   "version": "0.0.1",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/TylerLeonhardt/vscode-spotify-auth.git"
+  },
+  "bugs": {
+    "url": "https://github.com/TylerLeonhardt/vscode-spotify-auth/issues"
+  },
   "engines": {
     "vscode": "^1.90.0"
   },
