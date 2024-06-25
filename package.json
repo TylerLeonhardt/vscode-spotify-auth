@@ -1,6 +1,6 @@
 {
   "name": "vscode-spotify-auth",
-  "displayName": "Spotify Authentication",
+  "displayName": "Spotify Authentication (Unofficial)",
   "publisher": "TylerLeonhardt",
   "description": "Provides a VS Code Authentication Provider for Spotify",
   "version": "0.0.1",
